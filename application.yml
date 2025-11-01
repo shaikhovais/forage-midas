@@ -1,0 +1,3 @@
+# Below-mentioned configuration property was missing, so added it
+general:
+  kafka-topic: midas-group

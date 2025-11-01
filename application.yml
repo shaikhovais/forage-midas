@@ -1,6 +1,8 @@
+# Added configuration property to give topic name
 general:
   kafka-topic: midas-group
 
+# Added Kafka configuration to serialize/deserialize Java objects as JSON for both producer and consumer
 spring:
   kafka:
     producer:
